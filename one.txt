@@ -1,0 +1,3 @@
+one is my name file ;;;
+i am in master file
+
